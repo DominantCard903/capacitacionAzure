@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/f2570d4b-becc-4cad-90c2-0c3894e595b7/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Alan-AzureApp",
+    "appService.deploySubpath": "."
+}
